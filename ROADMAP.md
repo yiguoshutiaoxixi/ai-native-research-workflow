@@ -1,5 +1,14 @@
 # Roadmap
 
+## v0.1.1 — Public Onboarding
+
+- [x] 30-second overview
+- [x] 5-minute quick start
+- [x] Clearer public positioning
+- [x] Text-only architecture overview
+- [x] Changelog
+
+
 ## v0.1 — Methodology First
 
 - [x] Clear repository positioning
